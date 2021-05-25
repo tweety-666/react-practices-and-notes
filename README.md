@@ -1,7 +1,7 @@
 # react-practices-and-notes
 There are projects and notes for learning react.
 
-## Skill tree
+## skill tree
 1. class component and function component
 2. styled component (JS in CSS)
 3. react-redux
@@ -13,6 +13,6 @@ There are projects and notes for learning react.
 2. redux
 
 ## todo:
-[ ] 補上redux筆記
-[ ] 補上middleware筆記
-[ ] 補上redux-thunk筆記
+- 補上redux筆記
+- 補上middleware筆記
+- 補上redux-thunk筆記
