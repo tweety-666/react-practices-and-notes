@@ -2,17 +2,20 @@
 There are projects and notes for learning react.
 
 ## skill tree
-1. class component and function component
-2. styled component (JS in CSS)
-3. react-redux
-4. middleware
-5. redux-thunk
+- JSX
+- lifecycle
+- class component and function component
+- styled component (JS in CSS)
+- hook
+- redux and react-redux
+- middleware and redux-thunk
+- toolkit
+
 
 ## conception
 1. flux
 2. redux
+3. flux vs redux
 
 ## todo:
-- 補上redux筆記
-- 補上middleware筆記
-- 補上redux-thunk筆記
+- add demo projects
